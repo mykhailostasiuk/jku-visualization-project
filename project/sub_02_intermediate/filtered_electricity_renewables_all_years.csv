@@ -1,0 +1,541 @@
+Entity,Code,Year,Renewables - % electricity,Continent
+Afghanistan,AFG,2000,64.583336,Asia
+Afghanistan,AFG,2010,85.22727,Asia
+Afghanistan,AFG,2020,85.0,Asia
+Albania,ALB,2000,96.19451,Europe
+Albania,ALB,2010,100.0,Europe
+Albania,ALB,2020,100.0,Europe
+Algeria,DZA,2000,0.19685039,Africa
+Algeria,DZA,2010,0.37174723,Africa
+Algeria,DZA,2020,0.9214845,Africa
+Angola,AGO,2000,63.194443,Africa
+Angola,AGO,2010,67.948715,Africa
+Angola,AGO,2020,75.60976,Africa
+Antigua and Barbuda,ATG,2000,0.0,North America
+Antigua and Barbuda,ATG,2010,0.0,North America
+Antigua and Barbuda,ATG,2020,5.714286,North America
+Argentina,ARG,2000,32.59159,South America
+Argentina,ARG,2010,27.595238,South America
+Argentina,ARG,2020,25.318031,South America
+Armenia,ARM,2000,21.626297,Asia
+Armenia,ARM,2010,40.51037,Asia
+Armenia,ARM,2020,25.13089,Asia
+Australia,AUS,2000,8.089287,Oceania
+Australia,AUS,2010,8.829741,Oceania
+Australia,AUS,2020,24.236483,Oceania
+Austria,AUT,2000,72.83702,Europe
+Austria,AUT,2010,66.337364,Europe
+Austria,AUT,2020,80.27231,Europe
+Azerbaijan,AZE,2000,8.137045,Asia
+Azerbaijan,AZE,2010,18.264595,Asia
+Azerbaijan,AZE,2020,5.1262136,Asia
+Bahamas,BHS,2000,0.0,North America
+Bahamas,BHS,2010,0.0,North America
+Bahamas,BHS,2020,0.0,North America
+Bahrain,BHR,2000,0.0,Asia
+Bahrain,BHR,2010,0.0,Asia
+Bahrain,BHR,2020,0.029967038,Asia
+Bangladesh,BGD,2000,5.8971143,Asia
+Bangladesh,BGD,2010,2.0313265,Asia
+Bangladesh,BGD,2020,1.5112162,Asia
+Barbados,BRB,2000,0.0,North America
+Barbados,BRB,2010,0.0,North America
+Barbados,BRB,2020,6.603774,North America
+Belarus,BLR,2000,0.11494253,Europe
+Belarus,BLR,2010,0.4011461,Europe
+Belarus,BLR,2020,3.502854,Europe
+Belgium,BEL,2000,1.2682691,Europe
+Belgium,BEL,2010,7.031502,Europe
+Belgium,BEL,2020,26.563208,Europe
+Belize,BLZ,2000,69.230774,North America
+Belize,BLZ,2010,88.09524,North America
+Belize,BLZ,2020,82.14286,North America
+Benin,BEN,2000,0.0,Africa
+Benin,BEN,2010,0.0,Africa
+Benin,BEN,2020,1.010101,Africa
+Bhutan,BTN,2000,100.0,Asia
+Bhutan,BTN,2010,100.0,Asia
+Bhutan,BTN,2020,100.0,Asia
+Bolivia,BOL,2000,51.54639,South America
+Bolivia,BOL,2010,33.68421,South America
+Bolivia,BOL,2020,35.843372,South America
+Bosnia and Herzegovina,BIH,2000,48.801533,Europe
+Bosnia and Herzegovina,BIH,2010,47.430595,Europe
+Bosnia and Herzegovina,BIH,2020,29.184036,Europe
+Botswana,BWA,2000,0.0,Africa
+Botswana,BWA,2010,0.0,Africa
+Botswana,BWA,2020,0.4587156,Africa
+Brazil,BRA,2000,89.49073,South America
+Brazil,BRA,2010,84.80225,South America
+Brazil,BRA,2020,83.16687,South America
+Brunei,BRN,2000,0.0,Asia
+Brunei,BRN,2010,0.0,Asia
+Brunei,BRN,2020,0.0,Asia
+Bulgaria,BGR,2000,6.4794283,Europe
+Bulgaria,BGR,2010,12.540823,Europe
+Bulgaria,BGR,2020,18.609865,Europe
+Burkina Faso,BFA,2000,25.641027,Africa
+Burkina Faso,BFA,2010,22.413794,Africa
+Burkina Faso,BFA,2020,28.378378,Africa
+Burundi,BDI,2000,100.0,Africa
+Burundi,BDI,2010,87.5,Africa
+Burundi,BDI,2020,72.72727,Africa
+Cambodia,KHM,2000,15.151515,Asia
+Cambodia,KHM,2010,4.9504952,Asia
+Cambodia,KHM,2020,49.554565,Asia
+Cameroon,CMR,2000,98.840576,Africa
+Cameroon,CMR,2010,73.037544,Africa
+Cameroon,CMR,2020,61.0,Africa
+Canada,CAN,2000,60.607464,North America
+Canada,CAN,2010,61.062878,North America
+Canada,CAN,2020,66.7534,North America
+Cape Verde,CPV,2000,6.6666665,Africa
+Cape Verde,CPV,2010,0.0,Africa
+Cape Verde,CPV,2020,16.666668,Africa
+Central African Republic,CAF,2000,80.0,Africa
+Central African Republic,CAF,2010,81.25,Africa
+Central African Republic,CAF,2020,100.0,Africa
+Chad,TCD,2000,0.0,Africa
+Chad,TCD,2010,0.0,Africa
+Chad,TCD,2020,5.714286,Africa
+Chile,CHL,2000,47.506424,South America
+Chile,CHL,2010,36.98936,South America
+Chile,CHL,2020,43.807076,South America
+China,CHN,2000,16.639128,Asia
+China,CHN,2010,18.691467,Asia
+China,CHN,2020,28.08742,Asia
+Colombia,COL,2000,75.35622,South America
+Colombia,COL,2010,70.51303,South America
+Colombia,COL,2020,65.11539,South America
+Comoros,COM,2000,0.0,Africa
+Comoros,COM,2010,0.0,Africa
+Comoros,COM,2020,0.0,Africa
+Costa Rica,CRI,2000,99.12537,North America
+Costa Rica,CRI,2010,93.27024,North America
+Costa Rica,CRI,2020,99.8295,North America
+Cote d'Ivoire,CIV,2000,36.458332,Africa
+Cote d'Ivoire,CIV,2010,28.067228,Africa
+Cote d'Ivoire,CIV,2020,30.550621,Africa
+Croatia,HRV,2000,57.537914,Europe
+Croatia,HRV,2010,62.880325,Europe
+Croatia,HRV,2020,64.625854,Europe
+Cuba,CUB,2000,6.852961,North America
+Cuba,CUB,2010,3.2758622,North America
+Cuba,CUB,2020,4.8293967,North America
+Cyprus,CYP,2000,0.0,Europe
+Cyprus,CYP,2010,1.500938,Europe
+Cyprus,CYP,2020,12.371135,Europe
+Czechia,CZE,2000,3.127572,Europe
+Czechia,CZE,2010,6.934992,Europe
+Czechia,CZE,2020,12.908864,Europe
+Democratic Republic of Congo,COD,2000,100.0,Africa
+Democratic Republic of Congo,COD,2010,98.85058,Africa
+Democratic Republic of Congo,COD,2020,99.91639,Africa
+Denmark,DNK,2000,15.536961,Europe
+Denmark,DNK,2010,32.07742,Europe
+Denmark,DNK,2020,82.050385,Europe
+Djibouti,DJI,2000,0.0,Africa
+Djibouti,DJI,2010,0.0,Africa
+Djibouti,DJI,2020,0.0,Africa
+Dominica,DMA,2000,37.5,North America
+Dominica,DMA,2010,14.285714,North America
+Dominica,DMA,2020,25.0,North America
+Dominican Republic,DOM,2000,6.9946194,North America
+Dominican Republic,DOM,2010,10.757781,North America
+Dominican Republic,DOM,2020,18.392859,North America
+Ecuador,ECU,2000,71.50997,South America
+Ecuador,ECU,2010,44.129765,South America
+Ecuador,ECU,2020,79.64206,South America
+Egypt,EGY,2000,19.44899,Africa
+Egypt,EGY,2010,9.9633045,Africa
+Egypt,EGY,2020,12.3766365,Africa
+El Salvador,SLV,2000,61.725067,North America
+El Salvador,SLV,2010,64.99163,North America
+El Salvador,SLV,2020,84.518166,North America
+Equatorial Guinea,GNQ,2000,20.0,Africa
+Equatorial Guinea,GNQ,2010,13.636364,Africa
+Equatorial Guinea,GNQ,2020,34.751774,Africa
+Eritrea,ERI,2000,0.0,Africa
+Eritrea,ERI,2010,0.0,Africa
+Eritrea,ERI,2020,2.7027028,Africa
+Estonia,EST,2000,0.11750881,Europe
+Estonia,EST,2010,8.095605,Europe
+Estonia,EST,2020,48.848686,Europe
+Eswatini,SWZ,2000,98.48485,Africa
+Eswatini,SWZ,2010,97.297295,Africa
+Eswatini,SWZ,2020,92.452835,Africa
+Ethiopia,ETH,2000,98.81657,Africa
+Ethiopia,ETH,2010,99.00199,Africa
+Ethiopia,ETH,2020,99.93683,Africa
+Fiji,FJI,2000,72.00001,Oceania
+Fiji,FJI,2010,52.272728,Oceania
+Fiji,FJI,2020,60.784313,Oceania
+Finland,FIN,2000,33.414318,Europe
+Finland,FIN,2010,29.985119,Europe
+Finland,FIN,2020,51.89197,Europe
+France,FRA,2000,12.736593,Europe
+France,FRA,2010,13.635394,Europe
+France,FRA,2020,23.713062,Europe
+Gabon,GAB,2000,61.832066,Africa
+Gabon,GAB,2010,47.15026,Africa
+Gabon,GAB,2020,42.016804,Africa
+Gambia,GMB,2000,0.0,Africa
+Gambia,GMB,2010,0.0,Africa
+Gambia,GMB,2020,0.0,Africa
+Georgia,GEO,2000,78.804344,Asia
+Georgia,GEO,2010,93.16584,Asia
+Georgia,GEO,2020,74.731186,Asia
+Germany,DEU,2000,6.2237453,Europe
+Germany,DEU,2010,16.886944,Europe
+Germany,DEU,2020,44.37406,Europe
+Ghana,GHA,2000,91.35286,Africa
+Ghana,GHA,2010,68.67589,Africa
+Ghana,GHA,2020,37.354282,Africa
+Greece,GRC,2000,7.820174,Europe
+Greece,GRC,2010,18.600954,Europe
+Greece,GRC,2020,36.93959,Europe
+Grenada,GRD,2000,0.0,North America
+Grenada,GRD,2010,0.0,North America
+Grenada,GRD,2020,0.0,North America
+Guatemala,GTM,2000,50.154797,North America
+Guatemala,GTM,2010,63.687782,North America
+Guatemala,GTM,2020,76.243095,North America
+Guinea,GIN,2000,50.617283,Africa
+Guinea,GIN,2010,76.190475,Africa
+Guinea,GIN,2020,71.96532,Africa
+Guinea-Bissau,GNB,2000,0.0,Africa
+Guinea-Bissau,GNB,2010,0.0,Africa
+Guinea-Bissau,GNB,2020,0.0,Africa
+Guyana,GUY,2000,1.1111112,South America
+Guyana,GUY,2010,1.1494253,South America
+Guyana,GUY,2020,1.7699115,South America
+Haiti,HTI,2000,51.85185,North America
+Haiti,HTI,2010,25.0,North America
+Haiti,HTI,2020,13.207548,North America
+Honduras,HND,2000,61.813187,North America
+Honduras,HND,2010,48.61111,North America
+Honduras,HND,2020,57.196613,North America
+Hungary,HUN,2000,0.68201196,Europe
+Hungary,HUN,2010,8.083511,Europe
+Hungary,HUN,2020,15.807561,Europe
+Iceland,ISL,2000,100.0,Europe
+Iceland,ISL,2010,100.0,Europe
+Iceland,ISL,2020,100.0,Europe
+India,IND,2000,14.048197,Asia
+India,IND,2010,15.21222,Asia
+India,IND,2020,19.954615,Asia
+Indonesia,IDN,2000,19.99184,Asia
+Indonesia,IDN,2010,19.503267,Asia
+Indonesia,IDN,2020,18.124186,Asia
+Iran,IRN,2000,3.2006702,Asia
+Iran,IRN,2010,4.4254923,Asia
+Iran,IRN,2020,7.393238,Asia
+Iraq,IRQ,2000,1.9122257,Asia
+Iraq,IRQ,2010,9.752606,Asia
+Iraq,IRQ,2020,4.9397163,Asia
+Ireland,IRL,2000,4.9957657,Europe
+Ireland,IRL,2010,13.233725,Europe
+Ireland,IRL,2020,42.083855,Europe
+Israel,ISR,2000,0.07032349,Asia
+Israel,ISR,2010,0.29035014,Asia
+Israel,ISR,2020,6.0765815,Asia
+Italy,ITA,2000,18.844929,Europe
+Italy,ITA,2010,25.94815,Europe
+Italy,ITA,2020,42.231133,Europe
+Jamaica,JAM,2000,4.5790253,North America
+Jamaica,JAM,2010,7.6388884,North America
+Jamaica,JAM,2020,13.785046,North America
+Japan,JPN,2000,9.187302,Asia
+Japan,JPN,2010,10.22802,Asia
+Japan,JPN,2020,19.576511,Asia
+Jordan,JOR,2000,0.5427408,Asia
+Jordan,JOR,2010,0.473613,Asia
+Jordan,JOR,2020,18.937197,Asia
+Kazakhstan,KAZ,2000,14.581719,Asia
+Kazakhstan,KAZ,2010,9.703569,Asia
+Kazakhstan,KAZ,2020,10.991439,Asia
+Kenya,KEN,2000,40.37123,Africa
+Kenya,KEN,2010,74.441345,Africa
+Kenya,KEN,2020,94.22414,Africa
+Kiribati,KIR,2000,0.0,Oceania
+Kiribati,KIR,2010,0.0,Oceania
+Kiribati,KIR,2020,0.0,Oceania
+Kuwait,KWT,2000,0.0,Asia
+Kuwait,KWT,2010,0.0,Asia
+Kuwait,KWT,2020,0.28093645,Asia
+Kyrgyzstan,KGZ,2000,85.48896,Asia
+Kyrgyzstan,KGZ,2010,91.74312,Asia
+Kyrgyzstan,KGZ,2020,90.77922,Asia
+Laos,LAO,2000,89.863014,Asia
+Laos,LAO,2010,100.0,Asia
+Laos,LAO,2020,71.596596,Asia
+Latvia,LVA,2000,68.115944,Europe
+Latvia,LVA,2010,54.90196,Europe
+Latvia,LVA,2020,63.636368,Europe
+Lebanon,LBN,2000,4.4221106,Asia
+Lebanon,LBN,2010,5.283259,Asia
+Lebanon,LBN,2020,6.6885967,Asia
+Lesotho,LSO,2000,100.0,Africa
+Lesotho,LSO,2010,100.0,Africa
+Lesotho,LSO,2020,100.0,Africa
+Liberia,LBR,2000,0.0,Africa
+Liberia,LBR,2010,0.0,Africa
+Liberia,LBR,2020,62.352936,Africa
+Libya,LBY,2000,0.0,Africa
+Libya,LBY,2010,0.03071253,Africa
+Libya,LBY,2020,0.033898305,Africa
+Lithuania,LTU,2000,3.0548067,Europe
+Lithuania,LTU,2010,18.2,Europe
+Lithuania,LTU,2020,54.680855,Europe
+Luxembourg,LUX,2000,40.0,Europe
+Luxembourg,LUX,2010,8.333334,Europe
+Luxembourg,LUX,2020,79.508194,Europe
+Madagascar,MDG,2000,63.953487,Africa
+Madagascar,MDG,2010,54.615387,Africa
+Madagascar,MDG,2020,41.2037,Africa
+Malawi,MWI,2000,90.08264,Africa
+Malawi,MWI,2010,93.75,Africa
+Malawi,MWI,2020,99.346405,Africa
+Malaysia,MYS,2000,10.815451,Asia
+Malaysia,MYS,2010,6.09405,Asia
+Malaysia,MYS,2020,18.18289,Asia
+Maldives,MDV,2000,0.0,Asia
+Maldives,MDV,2010,0.0,Asia
+Maldives,MDV,2020,4.878049,Asia
+Mali,MLI,2000,26.415096,Africa
+Mali,MLI,2010,49.152546,Africa
+Mali,MLI,2020,32.80757,Africa
+Malta,MLT,2000,0.0,Europe
+Malta,MLT,2010,0.0,Europe
+Malta,MLT,2020,11.627907,Europe
+Mauritania,MRT,2000,7.1428576,Africa
+Mauritania,MRT,2010,14.117646,Africa
+Mauritania,MRT,2020,29.268293,Africa
+Mauritius,MUS,2000,29.37853,Africa
+Mauritius,MUS,2010,24.163568,Africa
+Mauritius,MUS,2020,24.13793,Africa
+Mexico,MEX,2000,19.379236,North America
+Mexico,MEX,2010,16.648523,North America
+Mexico,MEX,2020,21.308407,North America
+Moldova,MDA,2000,7.1559634,Europe
+Moldova,MDA,2010,6.5466447,Europe
+Moldova,MDA,2020,5.825243,Europe
+Mongolia,MNG,2000,0.0,Asia
+Mongolia,MNG,2010,1.1574074,Asia
+Mongolia,MNG,2020,10.240964,Asia
+Mozambique,MOZ,2000,99.895515,Africa
+Mozambique,MOZ,2010,99.88002,Africa
+Mozambique,MOZ,2020,83.49106,Africa
+Myanmar,MMR,2000,36.666668,Asia
+Myanmar,MMR,2010,71.809746,Asia
+Myanmar,MMR,2020,48.668797,Asia
+Namibia,NAM,2000,97.22222,Africa
+Namibia,NAM,2010,96.18321,Africa
+Namibia,NAM,2020,96.5,Africa
+Nauru,NRU,2000,0.0,Oceania
+Nauru,NRU,2010,0.0,Oceania
+Nauru,NRU,2020,0.0,Oceania
+Nepal,NPL,2000,98.181816,Asia
+Nepal,NPL,2010,100.0,Asia
+Nepal,NPL,2020,100.0,Asia
+Netherlands,NLD,2000,3.3727005,Europe
+Netherlands,NLD,2010,9.475021,Europe
+Netherlands,NLD,2020,26.836668,Europe
+New Zealand,NZL,2000,71.75533,Oceania
+New Zealand,NZL,2010,73.12119,Oceania
+New Zealand,NZL,2020,80.92273,Oceania
+Nicaragua,NIC,2000,21.491228,North America
+Nicaragua,NIC,2010,36.712326,North America
+Nicaragua,NIC,2020,69.920845,North America
+Niger,NER,2000,0.0,Africa
+Niger,NER,2010,0.0,Africa
+Niger,NER,2020,7.5757575,Africa
+Nigeria,NGA,2000,38.26323,Africa
+Nigeria,NGA,2010,24.41638,Africa
+Nigeria,NGA,2020,22.09866,Africa
+North Macedonia,MKD,2000,17.180616,Europe
+North Macedonia,MKD,2010,33.471073,Europe
+North Macedonia,MKD,2020,27.715355,Europe
+Norway,NOR,2000,99.71232,Europe
+Norway,NOR,2010,95.7934,Europe
+Norway,NOR,2020,98.51607,Europe
+Oman,OMN,2000,0.0,Asia
+Oman,OMN,2010,0.0,Asia
+Oman,OMN,2020,0.54488844,Asia
+Pakistan,PAK,2000,25.853512,Asia
+Pakistan,PAK,2010,34.715466,Asia
+Pakistan,PAK,2020,27.416311,Asia
+Panama,PAN,2000,70.34765,North America
+Panama,PAN,2010,57.04607,North America
+Panama,PAN,2020,75.68556,North America
+Papua New Guinea,PNG,2000,42.396313,Oceania
+Papua New Guinea,PNG,2010,35.612537,Oceania
+Papua New Guinea,PNG,2020,28.87828,Oceania
+Paraguay,PRY,2000,100.0,South America
+Paraguay,PRY,2010,100.0,South America
+Paraguay,PRY,2020,100.0,South America
+Peru,PER,2000,81.97791,South America
+Peru,PER,2010,57.704098,South America
+Peru,PER,2020,63.74834,South America
+Philippines,PHL,2000,42.891834,Asia
+Philippines,PHL,2010,26.295584,Asia
+Philippines,PHL,2020,21.2285,Asia
+Poland,POL,2000,1.6273223,Europe
+Poland,POL,2010,6.940103,Europe
+Poland,POL,2020,17.96373,Europe
+Portugal,PRT,2000,29.784773,Europe
+Portugal,PRT,2010,53.01047,Europe
+Portugal,PRT,2020,58.591167,Europe
+Qatar,QAT,2000,0.0,Asia
+Qatar,QAT,2010,0.0,Asia
+Qatar,QAT,2020,0.2834008,Asia
+Romania,ROU,2000,28.665632,Europe
+Romania,ROU,2010,33.598145,Europe
+Romania,ROU,2020,44.57526,Europe
+Russia,RUS,2000,18.70215,Europe
+Russia,RUS,2010,16.090248,Europe
+Russia,RUS,2020,19.923162,Europe
+Rwanda,RWA,2000,62.5,Africa
+Rwanda,RWA,2010,39.285713,Africa
+Rwanda,RWA,2020,62.5,Africa
+Saint Kitts and Nevis,KNA,2000,0.0,North America
+Saint Kitts and Nevis,KNA,2010,0.0,North America
+Saint Kitts and Nevis,KNA,2020,4.5454545,North America
+Saint Lucia,LCA,2000,0.0,North America
+Saint Lucia,LCA,2010,0.0,North America
+Saint Lucia,LCA,2020,0.0,North America
+Saint Vincent and the Grenadines,VCT,2000,30.0,North America
+Saint Vincent and the Grenadines,VCT,2010,20.0,North America
+Saint Vincent and the Grenadines,VCT,2020,23.529411,North America
+Samoa,WSM,2000,50.0,Oceania
+Samoa,WSM,2010,41.666668,Oceania
+Samoa,WSM,2020,35.294117,Oceania
+Sao Tome and Principe,STP,2000,33.333336,Africa
+Sao Tome and Principe,STP,2010,0.0,Africa
+Sao Tome and Principe,STP,2020,9.090909,Africa
+Saudi Arabia,SAU,2000,0.0,Asia
+Saudi Arabia,SAU,2010,0.0,Asia
+Saudi Arabia,SAU,2020,0.057757944,Asia
+Senegal,SEN,2000,3.3557048,Africa
+Senegal,SEN,2010,9.907121,Africa
+Senegal,SEN,2020,16.831684,Africa
+Serbia,SRB,2000,31.844778,Europe
+Serbia,SRB,2010,32.992126,Europe
+Serbia,SRB,2020,28.801054,Europe
+Seychelles,SYC,2000,0.0,Africa
+Seychelles,SYC,2010,0.0,Africa
+Seychelles,SYC,2020,11.864408,Africa
+Sierra Leone,SLE,2000,11.111111,Africa
+Sierra Leone,SLE,2010,85.71429,Africa
+Sierra Leone,SLE,2020,95.0,Africa
+Singapore,SGP,2000,1.5472056,Asia
+Singapore,SGP,2010,2.6014106,Asia
+Singapore,SGP,2020,2.8076127,Asia
+Slovakia,SVK,2000,14.977258,Europe
+Slovakia,SVK,2010,21.667881,Europe
+Slovakia,SVK,2020,24.026657,Europe
+Slovenia,SVN,2000,28.655401,Europe
+Slovenia,SVN,2010,29.212791,Europe
+Slovenia,SVN,2020,33.0373,Europe
+Solomon Islands,SLB,2000,0.0,Oceania
+Solomon Islands,SLB,2010,0.0,Oceania
+Solomon Islands,SLB,2020,0.0,Oceania
+Somalia,SOM,2000,0.0,Africa
+Somalia,SOM,2010,0.0,Africa
+Somalia,SOM,2020,8.108108,Africa
+South Africa,ZAF,2000,0.7547349,Africa
+South Africa,ZAF,2010,0.6163328,Africa
+South Africa,ZAF,2020,5.8506637,Africa
+South Korea,KOR,2000,1.4184885,Asia
+South Korea,KOR,2010,1.1494253,Asia
+South Korea,KOR,2020,6.307181,Asia
+Spain,ESP,2000,15.611987,Europe
+Spain,ESP,2010,32.83076,Europe
+Spain,ESP,2020,43.854782,Europe
+Sri Lanka,LKA,2000,47.34513,Asia
+Sri Lanka,LKA,2010,53.40803,Asia
+Sri Lanka,LKA,2020,36.778694,Asia
+Sudan,SDN,2000,50.0,Africa
+Sudan,SDN,2010,82.8496,Africa
+Sudan,SDN,2020,64.82558,Africa
+Suriname,SUR,2000,73.958336,South America
+Suriname,SUR,2010,61.22449,South America
+Suriname,SUR,2020,48.768475,South America
+Sweden,SWE,2000,57.247128,Europe
+Sweden,SWE,2010,55.29808,Europe
+Sweden,SWE,2020,68.4699,Europe
+Switzerland,CHE,2000,56.987293,Europe
+Switzerland,CHE,2010,56.729748,Europe
+Switzerland,CHE,2020,62.198864,Europe
+Syria,SYR,2000,12.910892,Asia
+Syria,SYR,2010,5.6416883,Asia
+Syria,SYR,2020,4.7589993,Asia
+Taiwan,TWN,2000,3.034893,Asia
+Taiwan,TWN,2010,2.8617687,Asia
+Taiwan,TWN,2020,4.782314,Asia
+Tajikistan,TJK,2000,98.455055,Asia
+Tajikistan,TJK,2010,99.75669,Asia
+Tajikistan,TJK,2020,90.0995,Asia
+Tanzania,TZA,2000,86.40001,Africa
+Tanzania,TZA,2010,52.1576,Africa
+Tanzania,TZA,2020,41.528664,Africa
+Thailand,THA,2000,6.7211056,Asia
+Thailand,THA,2010,5.5657806,Asia
+Thailand,THA,2020,14.211243,Asia
+Togo,TGO,2000,55.555553,Africa
+Togo,TGO,2010,40.909092,Africa
+Togo,TGO,2020,21.739132,Africa
+Tonga,TON,2000,0.0,Oceania
+Tonga,TON,2010,0.0,Oceania
+Tonga,TON,2020,14.285714,Oceania
+Trinidad and Tobago,TTO,2000,0.36630037,North America
+Trinidad and Tobago,TTO,2010,0.0,North America
+Trinidad and Tobago,TTO,2020,0.108342364,North America
+Tunisia,TUN,2000,0.7554296,Africa
+Tunisia,TUN,2010,1.1957206,Africa
+Tunisia,TUN,2020,3.9775383,Africa
+Turkey,TUR,2000,25.06032,Asia
+Turkey,TUR,2010,26.398825,Asia
+Turkey,TUR,2020,42.16225,Asia
+Turkmenistan,TKM,2000,0.0,Asia
+Turkmenistan,TKM,2010,0.0,Asia
+Turkmenistan,TKM,2020,0.0,Asia
+Uganda,UGA,2000,99.37107,Africa
+Uganda,UGA,2010,59.48905,Africa
+Uganda,UGA,2020,98.67257,Africa
+Ukraine,UKR,2000,6.564246,Europe
+Ukraine,UKR,2010,7.0914097,Europe
+Ukraine,UKR,2020,11.468978,Europe
+United Arab Emirates,ARE,2000,0.0,Asia
+United Arab Emirates,ARE,2010,0.02128792,Asia
+United Arab Emirates,ARE,2020,3.7727604,Asia
+United Kingdom,GBR,2000,2.628229,Europe
+United Kingdom,GBR,2010,6.852327,Europe
+United Kingdom,GBR,2020,43.106213,Europe
+United States,USA,2000,9.229899,North America
+United States,USA,2010,10.3180895,North America
+United States,USA,2020,20.315693,North America
+Uruguay,URY,2000,93.412384,South America
+Uruguay,URY,2010,89.19926,South America
+Uruguay,URY,2020,94.03095,South America
+Uzbekistan,UZB,2000,7.5330772,Asia
+Uzbekistan,UZB,2010,15.75909,Asia
+Uzbekistan,UZB,2020,7.532702,Asia
+Vanuatu,VUT,2000,0.0,Oceania
+Vanuatu,VUT,2010,0.0,Oceania
+Vanuatu,VUT,2020,14.285714,Oceania
+Venezuela,VEN,2000,73.75396,South America
+Venezuela,VEN,2010,67.492966,South America
+Venezuela,VEN,2020,78.38007,South America
+Vietnam,VNM,2000,54.781628,Asia
+Vietnam,VNM,2010,31.203663,Asia
+Vietnam,VNM,2020,36.29567,Asia
+Yemen,YEM,2000,0.0,Asia
+Yemen,YEM,2010,0.0,Asia
+Yemen,YEM,2020,16.666666,Asia
+Zambia,ZMB,2000,99.48119,Africa
+Zambia,ZMB,2010,99.904305,Africa
+Zambia,ZMB,2020,85.48917,Africa
+Zimbabwe,ZWE,2000,45.636623,Africa
+Zimbabwe,ZWE,2010,67.93981,Africa
+Zimbabwe,ZWE,2020,58.569298,Africa
