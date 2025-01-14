@@ -1,27 +1,28 @@
 {
     "submission_id": 4,
     "submission_type": "presentation",
-    "team_name": "Team Name",
+    "team_name": "The leading figures",
     "students": [
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Nikolaus",
+            "last_name": "Schwingshandl",
             "workload": 0.25
         },
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Mykhailo",
+            "last_name": "Stasiuk",
             "workload": 0.25
         },
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Muhammed Aziz",
+            "last_name": "Tepegöz",
             "workload": 0.25
         },
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Thomas",
+            "last_name": "Kovacsits",
             "workload": 0.25
         }
     ]
+}
 }
