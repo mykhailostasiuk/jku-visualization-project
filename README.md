@@ -1,105 +1,28 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VV4amRsL)
-# Visualization Lab Project
+# Energy Data Visualization Project
 
-Template repository for the Visualization lab project at the Johannes Kepler University Linz.
+## Overview
+This project is part of a university course on **Visualization**, focused on gaining hands-on experience working with real-world datasets and presenting data both interactively and non-interactively. The dataset used for this project is related to **global energy consumption and production**, sourced from **Our World in Data** and **OWID Energy Data** repositories. The analysis focuses on the evolution of energy production, consumption, and efficiency across different countries over decades, exploring various energy sources such as renewables (e.g., solar, wind) and non-renewables (e.g., coal, oil, natural gas).
 
-Please read through this `README.md` follow the instructions below.
+![Visualization](/assets/visualization.jpeg)
 
-For the detailed project specification check the [Visualization Moodel page](https://moodle.jku.at/course/view.php?id=31341).
+## Dataset Overview
 
-## 0. Team Information
+**Dataset**: [Our World in Data - Energy](https://ourworldindata.org/energy), [OWID Energy Data](https://github.com/owid/energy-data/tree/master)
 
-Fill out the `team-info.json` file in this repository and **push it to GitHub by 23:59 on 4 November, 2024**. (Check Moodle for any updated deadlines.)
-Make sure that the file contains your team name, each student's first and last name, student ID, email address, and GitHub username.
+The dataset we chose is from Our World in Data, a research organization that provides free access to data on various global issues. There we searched for interesting topics and found the energy dataset which stood out to us. The dataset contains extensive data on various energy related metrics for countries around the world over several decades. It includes various attributes, such as the energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics.
 
-## 1. Project Proposal
+We chose this dataset in particular, since it not only contains data over a large timespan, but also contains data for many different countries. Furthermore, the question of sustainability and energy consumption is more pressing than ever. Therefore, we thought it would be interesting to investigate how energy related metrics change over time for different countries. Observing the differences in effectiveness of certain policies is key in understanding what works and what doesn’t.
 
-Fill out the `sub_01_proposal.ipynb` file and indicate the workloads for each student in the `sub_01_workload.json` file.
+## Tasks and Hypotheses
 
-Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
+**Hypothesis**: There is a positive correlation between time and the sustainable energy ratio over a specified year range.
 
-**Push the files to GitHub by 23:59 on 11 November, 2024.**
-(Check Moodle for any updated deadlines.)
+**Hypothesis**: There is a positive correlation between GDP per capita and energy consumption per capita over the years. This trend is expected to be stronger in developed countries.
 
-## 2. Intermediate Project Submission
+**Task**: Determine the share of renewable and non-renewable energy sources in the total electricity generation of countries worldwide during certain time interval.
+There is a map, where each country is colored in a shade of a specific color, which determines the degree of dependence on a selected energy source. 
+The colors should be interpreted as follows: The darker the color, the more dependent the country is on the energy source, and the lighter the color, the less dependent the country is on the energy source.
 
-Fill out the `sub_02_intermediate.ipynb` file and indicate the workloads for each student in the `sub_02_workload.json` file.
-
-Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
-
-You can use the submission notebook for your experiments and to show your progress, but please keep a clear separation between any experimental outputs and the actual submission.
-
-**Push the files to GitHub by 23:59 on 2 December, 2024.**
-(Check Moodle for any updated deadlines.)
-
-## 3. Final Project Submission
-
-Fill out the `sub_03_final.ipynb` file and indicate the workloads for each student in the `sub_03_workload.json` file.
-
-Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
-
-You can use the submission notebook for your experiments and to show your progress, but please keep a clear separation between any experimental outputs and the actual submission.
-
-**Push the files to GitHub by 23:59 on 16 January, 2025.**
-(Check Moodle for any updated deadlines.)
-
-## 4. Project Presentation
-
-Add your slides and a video of your presentation to the `sub_04_presentation` folder. Please adhere to the following file extension and naming schemes: `presentation-video-<TEAMNAME>.mp4` and `presentation-slides-<TEAMNAME>.ppt(x)/pdf`. Please check Moodle for additional requirements such as the time limit.
-
-Indicate the workloads for each student in the `sub_04_workload.json` file.
-Make sure that the file includes your correct team name, that the names in the workload file match with the `team-info.json` and that the workloads sum up to 1.
-
-**Push the files to GitHub by 23:59 on 16 January, 2025.**
-(Check Moodle for any updated deadlines.)
-
-## Communication
-
-In case you have any questions about the individual submissions, please open a thread in the [Discussion Forum on Moodle](https://moodle.jku.at/mod/forum/view.php?id=10300502).
-If you have issues with one of your teammates or do not agree about the workloads, please reach out to the course team via email.
-
-## General Submission Information
-
-* Make sure that you pushed your GitHub repository and not just committed it locally.
-* **Make sure that the GitHub preview of your `.ipynb` files contains all parts of your submission that you want us to see!** In particular:
-  * Check if all output for static visualizations is visible. If not, include a static screenshot as an image.
-  * Check if all output for interactive visualizations is visible. If not, include a static screenshot and a link to a short screencast located in your repository.
-* Feel free to use the provided `environment.yml` file as a starting point (instructions below). If you use additional libraries, keep the environment file up-to-date to keep your code easily executable for yourself and others.
-
-## Usage Instructions
-
-Checkout this repo and change into the folder:
-
-```shell
-git clone https://github.com/jku-icg-classroom/vis-project-2024-<GROUP_NAME>.git
-cd vis-project-2024-<GROUP_NAME>
-```
-
-Load the conda environment from the `environment.yml` file, if you haven't already in previous assignments:
-
-```sh
-conda env create -f environment.yml
-```
-
-Activate the loaded conda environment:
-
-```sh
-conda activate vis-project
-```
-
-You might have to install the Jupyter Lab extension to use *ipywidgets* in JupyterLab:
-
-```sh
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-```
-
-Launch Jupyter :
-
-```shell
-jupyter lab
-```
-
-Jupyter should now open a new tab with url http://localhost:8888/ and display the project files.
-
-
-
+**Hypothesis**: Looking at specified timeframe, some countries are getting more energy efficient with regard to GDP growth, i.e., 
+there is less additional energy consumption needed to increase GDP now compared e.g. to the 90s and 2000s. Since different countries place a different priority on becoming more energy efficient, 
+comparing the gains in energy efficiency should reflect the differences in economic and ecological politics.
